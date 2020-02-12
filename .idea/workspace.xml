@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e9aae4b-f9be-443b-a431-28582483a8a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Machine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Texter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Texter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +31,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -92,30 +91,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1581485958609" />
-    <state width="1493" height="461" key="GridCell.Tab.0.bottom" timestamp="1581486670255">
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom" timestamp="1581486759096">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.251.1366.768@0.0.1536.864" timestamp="1581446206529" />
-    <state width="1493" height="461" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581486670255" />
-    <state width="1493" height="461" key="GridCell.Tab.0.center" timestamp="1581486670255">
+    <state width="1493" height="320" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581486759096" />
+    <state width="1493" height="320" key="GridCell.Tab.0.center" timestamp="1581486759095">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.251.1366.768@0.0.1536.864" timestamp="1581446206528" />
-    <state width="1493" height="461" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581486670255" />
-    <state width="1493" height="461" key="GridCell.Tab.0.left" timestamp="1581486670255">
+    <state width="1493" height="320" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581486759095" />
+    <state width="1493" height="320" key="GridCell.Tab.0.left" timestamp="1581486759095">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.251.1366.768@0.0.1536.864" timestamp="1581446206528" />
-    <state width="1493" height="461" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581486670255" />
-    <state width="1493" height="461" key="GridCell.Tab.0.right" timestamp="1581486670255">
+    <state width="1493" height="320" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581486759095" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right" timestamp="1581486759095">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.251.1366.768@0.0.1536.864" timestamp="1581446206528" />
-    <state width="1493" height="461" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581486670255" />
+    <state width="1493" height="320" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581486759095" />
     <state x="88" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1581485948907">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="88" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.251.1366.768@0.0.1536.864" timestamp="1581445561079" />
     <state x="88" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581485948907" />
+    <state x="156" y="138" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581487003192">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="156" y="138" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1581487003192" />
   </component>
 </project>

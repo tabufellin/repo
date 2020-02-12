@@ -9,7 +9,7 @@ public class Main {
         Texter texter = new Texter();
         Machine machine = new Machine();
 
-        String a = machine.createArrayAleatory(100);
+        String a = machine.createArrayAleatory(3000);
         texter.escribirEnTxt("./text.txt", a);
 
         ArrayList<Integer> x = texter.importText("./text.txt");
