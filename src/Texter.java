@@ -12,6 +12,7 @@ public class Texter {
 
         String dataDocument = readTxt(address);
         String[] array = dataDocument.split(" ");
+
         ArrayList<Integer> datosEnArrayList = new ArrayList<>();
 
         for (int i = 0; i < array.length; i++) {

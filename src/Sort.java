@@ -101,7 +101,7 @@ public class Sort {
 
     // bublle extracted from https://www.baeldung.com/java-bubble-sort
 
-    void bubbleSort(Integer[] arr) {
+    void bubbleSort(int[] arr) {
         int n = arr.length;
         range(0, n - 1)
                 .flatMap(i -> range(1, n - i))

@@ -15,8 +15,8 @@ public class Machine {
         StringBuilder guardarEnString= new StringBuilder();
 
         for (int i = 0; i < x.length; i++) {
-            guardarEnString.append(" ");
             guardarEnString.append(x[i]);
+            guardarEnString.append(" ");
         }
 
         return guardarEnString.toString();

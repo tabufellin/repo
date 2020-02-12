@@ -21,6 +21,16 @@ public class Main {
             arrayAnalizar[i] = x.get(i);
         }
 
+        // now we choose which sort use
+
+        sorty.bubbleSort(arrayAnalizar);
+
+        for (int i = 0; i < arrayAnalizar.length -1; i++) {
+            System.out.print(arrayAnalizar[i] +" ");
+        }
+
+
+
 
 
 
